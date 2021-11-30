@@ -1,2 +1,3 @@
 Hello world!
 Im learning Git!
+This is neccesary for some reson, also i tested 33 wpm today!
